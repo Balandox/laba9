@@ -1,0 +1,5 @@
+﻿  function.cpp
+  main.cpp
+  Создание кода...
+D:\VS repositories\laba9\laba9\function.cpp(49): warning C4715: isPrime: значение возвращается не при всех путях выполнения
+  laba9.vcxproj -> D:\VS repositories\laba9\Debug\laba9.exe
